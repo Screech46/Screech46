@@ -16,7 +16,7 @@
 </p>
 
 <p align="left">
-  💌 Where you can get in touch with me: <a href="https://discordapp.com/users/270579985310416896" ><img src="https://img.shields.io/badge/-Discord-333333?style=flat&logo=discord" align="center"></a>
+  💌 Where you can get in touch with me: <a href="https://discordapp.com/users/270579985310416896" target="_blank"><img src="https://img.shields.io/badge/-Discord-333333?style=flat&logo=discord" align="center"></a>
 </p>
 
 <p align="left">
