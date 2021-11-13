@@ -1,4 +1,4 @@
-<img src="https://astroloom.com/screech/img/logo.png" min-width="250px" max-width="250px" width="250px" align="left">
+<img src="https://astroloom.com/screech/img/logo.png" min-width="250px" max-width="250px" width="250px" align="right">
 
 <h3 align="left">Leonardo <code>&lt;/Screech&gt;</code></h3>
 
