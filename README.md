@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  🦄 Languages: <a><img src="https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C"></a>
+  🦄 Languages: <a align="center"><img src="https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C"></a>
 </p>
 
 <p align="left">
