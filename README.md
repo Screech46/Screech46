@@ -3,7 +3,7 @@
 <h3 align="left">Leonardo <code>&lt;/Screech&gt;</code></h3>
 
 <p align="left"> 
-  Hello I'm Leonardo, commonly referred to as Screech. I have been doing website design and development for 3 years now (since 2017, I am always keeping my designs up to date with the latest trends and adjusting them to fit the client better.
+  Hello I'm Leonardo, commonly referred to as Screech. I have been doing website design and development since 2017, I am always keeping my designs up to date with the latest trends and adjusting them to fit the client better.
 </p>
 
 <p align="left">
