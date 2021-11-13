@@ -9,11 +9,10 @@
 <a><img src="https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6" align="center"></a>
 <a><img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript" align="center"></a>
 <a><img src="https://img.shields.io/badge/-PHP-333333?style=flat&logo=PHP" align="center"></a>
-<a><img src="https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC" align="center"></a>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Coloque as suas ferramentas de trabalho.</strong>
+  💼 Tools: <a><img src="https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC" align="center"></a>
 </p>
 
 <p align="left">
