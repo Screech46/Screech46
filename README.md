@@ -6,8 +6,8 @@
 
 <p align="left">
   🦄 Languages:
-  <code>
-    <img width="32" style="padding-left 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML"/>
+  <code style="padding: 0 0 0 5px;">
+    <img width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML"/>
   </code>
   <code>
     <img width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/>
