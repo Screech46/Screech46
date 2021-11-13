@@ -12,10 +12,6 @@
 </p>
 
 <p align="left">
-  💼 Tools: <a><img src="https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC" align="center"></a>
-</p>
-
-<p align="left">
   💌 Contact me: <a href="https://discordapp.com/users/270579985310416896"><img src="https://img.shields.io/badge/-Discord-333333?style=flat&logo=discord" align="center"></a>
   <a href="https://twitter.com/Screech46_"><img src="https://img.shields.io/badge/-Twitter-333333?style=flat&logo=twitter" align="center"></a>
   <a href="https://www.instagram.com/screech46_"><img src="https://img.shields.io/badge/-Instagram-333333?style=flat&logo=instagram" align="center"></a>
