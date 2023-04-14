@@ -41,3 +41,15 @@ jobs:
           plugin_introduction_title: yes
           plugin_achievements: yes
           plugin_achievements_display: compact
+      - name: WakaTime
+        uses: lowlighter/metrics@latest
+        with:
+          filename: wakatime.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          base_indepth: yes
+          output_action: gist
+          committer_gist: ${{ secrets.GIST }}
+          plugin_wakatime: yes
+          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
+          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
